@@ -103,9 +103,6 @@ delay(0.1, function()
     write("PRESS Q TO SUMMON A DOGE || Z TO CYCLE TYPE \n \nCURRENT STATUS || MOVE TO || CLICK TO JUMP", label)
 end)
 
-delay(2.5, function()  -- Wait a moment, then write the second line
-    write("\n \nCURRENT TYPE || NORMAL", label)
-end)
 
 
 
